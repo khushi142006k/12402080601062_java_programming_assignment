@@ -32,8 +32,6 @@ System.out.print(arr[i] + " ");
 } 
 System.out.println(); 
 } 
-A D PATEL INSTITUTE OF TECHNOLOGY 
-DEPARTMENT OF INFORMATION TECHNOLOGY 
 void search(int key) { 
 boolean found = false; 
 for (int i = 0; i < n; i++) { 
@@ -73,8 +71,6 @@ System.out.println("Reversed String: " + rev);
 } 
 public static void main(String[] args) { 
 Scanner sc = new Scanner(System.in); 
-A D PATEL INSTITUTE OF TECHNOLOGY 
-DEPARTMENT OF INFORMATION TECHNOLOGY 
 System.out.print("Enter size of array: "); 
 int size = sc.nextInt(); 
 Program1 obj = new Program1(size); 
